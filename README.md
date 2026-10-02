@@ -1,9 +1,11 @@
 Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
 
 Project Overview
+
 This project automates the procurement and configuration workflow for standard laptop orders using **ServiceNow Flow Designer**. The traditional procurement process involves manual handoffs that often cause fulfillment delays, configuration oversights, and inefficient resource allocation. This solution establishes an automated workflow that generates and assigns a catalog task directly to the Hardware team upon request approval.
 
 Problem Statement
+
 Manual handling in enterprise IT procurement leads to operational bottlenecks, particularly during post-approval hardware staging. Without automation, handoffs between approvers and technicians risk delayed fulfillment, missed configuration steps, and unnecessary administrative workload.
 
  Project Objectives
