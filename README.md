@@ -74,7 +74,7 @@ Once the requisition is approved, ServiceNow automatically generates a configura
 By automating standard laptop procurement using ServiceNow Flow Designer, this project removes manual routing bottlenecks and ensures immediate task generation upon approval. The resulting workflow delivers higher operational efficiency, improved tracking, and an optimized user fulfillment experience.
 
  Demo
-* **Demo Link:** `Add your demo link here`
+* **Demo Link:** `https://drive.google.com/file/d/1JBzNLmVrnoPnzco_UG5xqz5vswfMZzbd/view?usp=drive_link`
 
  Project Details
 * Developed as part of the **Naan Mudhalvan** project curriculum.
